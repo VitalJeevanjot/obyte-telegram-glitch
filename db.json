@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "deviceAddress": "0VNT6PSZAB57G7C3C2YQJO4FPPLWSVRHC",
+      "verifiedTelegram": true,
+      "amountConfirmed": 12412,
+      "uniqid": "4059bcaflk19kika1",
+      "command": "attest",
+      "addressToPaySelf": "NHBQUNRUX3RW4HQNJ2L6EJ4SVAZ4LYB5",
+      "username": "genievot",
+      "chatId": 817761411,
+      "amountInWaiting": -3000,
+      "paid": true,
+      "useraddress": "D6Z5A3AC4O7IMFBKUNUDMFL33SGE5J2Z",
+      "attested": true,
+      "userid": 817761411
+    },
+    {
+      "deviceAddress": "0EITMKXSO5FT7ILNFPDEF27YAO6IG7IPP",
+      "verifiedTelegram": true,
+      "amountConfirmed": 9292,
+      "uniqid": "3bkm3n771qk1u15waw",
+      "command": "attest",
+      "addressToPaySelf": "H4YG7OUYRSHL26LVAHGLRW6LRWLEIBFV",
+      "amountInWaiting": 0,
+      "paid": true,
+      "username": "genievot",
+      "chatId": 817761411,
+      "userid": 817761411
+    },
+    {
+      "deviceAddress": "0DCR73VWY5K5QU7R43T3VJN34FWEWF6VN",
+      "verifiedTelegram": true,
+      "amountConfirmed": 4000,
+      "uniqid": "3bkm3n7a7k1tmy9su",
+      "command": "attest",
+      "addressToPaySelf": "4EJ233YY2XHZYAJ47GVQS35KTEHZG4I4",
+      "amountInWaiting": 0,
+      "paid": true,
+      "username": "therealtonych",
+      "chatId": 141194698,
+      "userid": 141194698,
+      "useraddress": "3Y24IXW57546PQAPQ2SXYEPEDNX4KC6Y",
+      "attested": true,
+      "attestationUnit": "IpB+7/Rfl0XcD5/vdkbsKrrJ5fPjtIfiiWC1UVfLRw4="
+    },
+    {
+      "deviceAddress": "0OBJALC342RNUTVNY345CFW2GU6TLAGT5",
+      "verifiedTelegram": true,
+      "amountConfirmed": 3000,
+      "uniqid": "3bkm3n771qk28ignb4",
+      "command": "attest",
+      "addressToPaySelf": "BFFSR5YNOLVP44CSP2CXJYDTKU7F5HPX",
+      "username": "dittoit2018",
+      "chatId": 581601272,
+      "userid": 581601272,
+      "amountInWaiting": 0,
+      "paid": true,
+      "useraddress": "XDMMUQETERCVYHPEUYXMMM4G2DEGBKCZ",
+      "attested": true,
+      "attestationUnit": "nxEELLhVzgUcoT98Z7VzW03gGqDf2HZBIyOtOz+6zYc="
+    }
+  ],
+  "total": 28704,
+  "count": 4
+}

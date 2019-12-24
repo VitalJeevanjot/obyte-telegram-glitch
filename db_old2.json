@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "deviceAddress": "0VNT6PSZAB57G7C3C2YQJO4FPPLWSVRHC",
+      "verifiedTelegram": true,
+      "uniqid": "4059bjillk192vrlh",
+      "command": "attest",
+      "addressToPaySelf": "NL2NJXTHWX6SD4MORKRFPUSTUKJLDCSL",
+      "username": "genievot",
+      "chatId": 817761411,
+      "amountInWaiting": 0,
+      "paid": true,
+      "amountConfirmed": null
+    }
+  ],
+  "total": 1000,
+  "count": 1
+}
