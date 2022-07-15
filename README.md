@@ -1,11 +1,11 @@
 <h2> How to use... </h2>
 
-- First Download this repo
-- Goto **server.js** and fine `--edit--` and here change it to your telegram api token
-- Run the bot with node js or look for script in **packgae.json** , which could be `start` or `startt`
+- First clone this repo
+- Goto **server.js** and find `--edit--`. Here change it to your telegram api token
+- Run the bot with node js or look for the script in **package.json** , which can be `start` or `startt` (on your preference to make changes here for testing or production case)
 - Then copy pairing code and there you have it.
 
-**Note:** Follow a simple telegram bot making tutorial to understand more about it.
+**Note:** Follow a simple telegram bot making tutorial to understand its working.
   
 
 Welcome to Glitch
